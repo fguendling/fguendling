@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @fguendling
-- 👀 I’m interested in Cloud Platforms
-- 🌱 I’m currently learning more about Blockchains
-- 💞️ I’m looking to collaborate on JavaScript Apps
-- 📫 Reach me via felix.g@live.de 
+Hello there!
 
 <!---
 fguendling/fguendling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
